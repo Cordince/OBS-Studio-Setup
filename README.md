@@ -1,2 +1,1 @@
-# OBS-Studio-Setup
-1k studio parts and setup
+OBS Studio scenes, imagery and lobby waiting videos
